@@ -1,6 +1,6 @@
-# MSc Coursework — Assignments Portfolio
+# BSc and MSc Coursework — Assignments Portfolio
 
-This repository collects selected individual assignments from my MSc in Economics and Social Sciences (Bocconi).
+This repository collects selected individual assignments from my BSc in International Politics and my MSc in Economics and Social Sciences at Bocconi.
 Each subfolder contains the task, a short summary, and the reproducible code.
 
 ## Structure
