@@ -5,8 +5,7 @@ Each subfolder contains the task, a short summary, and the reproducible code.
 
 ## Structure
 ```
-msc-coursework/
-├─ policy-evaluation/
+coursework/
 ├─ international-trade/
 ├─ macro-phd/
 ├─ econometrics/
